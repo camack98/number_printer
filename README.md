@@ -1,4 +1,4 @@
-# Number_printer 🧮 🖨
+# Number printer 🧮 🖨
 ## Outline
 Python script converts numbers (integers) into English words.
 
